@@ -4,4 +4,5 @@ added item
 not added item
 for new branch dev
 --dev only
--my dev modification 1
+--other's dev modification 1
+--my dev modification 1
